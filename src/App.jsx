@@ -1,5 +1,5 @@
 import { useEffect } from "react"; // 1. Importa useEffect
-import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
+import { HashRouter, Routes, Route, Link } from "react-router-dom";
 import { useTheme } from "./context/ThemeContext";
 
 import Pensum from "./pages/Pensum";
@@ -17,7 +17,7 @@ function App() {
   }, [theme.bg]);
 
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div
         style={{
           minHeight: "100vh",
@@ -70,7 +70,7 @@ function App() {
           </Routes>
         </main>
       </div>
-    </BrowserRouter>
+    </HashRouter>
 
   );
 }
