@@ -1,0 +1,14 @@
+ nueva plataforma académica pensada para estudiantes universitarios que buscan organizar mejor su vida académica de forma inteligente.
+
+🚀 Arma tu horario ideal en segundos
+📄 Sube tu historial académico
+📊 Visualiza tu progreso académico
+
+Horarios Perfectos
+No más horas peleando con Excel. Nuestro algoritmo crea el horario ideal para ti en segundos, evitando cruces y optimizando tu tiempo libre.
+
+Carga Automática
+Olvídate de ingresar datos manualmente. Sube tu constancia en PDF y nuestro sistema inteligente digitalizará todo tu historial al instante.
+
+Simulador de Notas
+Toma el control de tu promedio. Calcula exactamente qué notas necesitas para ganar tus cursos y alcanzar tus metas académicas.
